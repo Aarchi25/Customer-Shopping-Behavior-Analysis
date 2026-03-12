@@ -2,7 +2,7 @@
 
 This project analyzes customer shopping behavior to identify purchasing patterns, customer segments, and key factors affecting sales. The analysis uses Python, SQL, and Power BI to transform raw transactional data into meaningful insights that support data-driven business decisions.
 
-##📌 Project Objectives
+## 📌 Project Objectives
 
 -Analyze customer purchasing patterns
 
@@ -77,7 +77,7 @@ Each record represents a single customer transaction.
 
 - Customer segmentation
 
-###4️⃣ Power BI Dashboard
+4️⃣ Power BI Dashboard
 
 Created an interactive dashboard showing:
 
