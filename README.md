@@ -4,53 +4,56 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 
 ## 📌 Project Objectives
 
--Analyze customer purchasing patterns
+- Analyze customer purchasing patterns
 
--Identify high-performing product categories
+- Identify high-performing product categories
 
--Understand customer demographics and behavior
+- Understand customer demographics and behavior
 
--Evaluate the impact of discounts and promotions
+- Evaluate the impact of discounts and promotions
 
--ECreate interactive dashboards for business insights
+- Create interactive dashboards for business insights
 
 ## 📂 Dataset Features
-
+- Total Records: 3,900+
+- Total Features: 18
 The dataset includes customer shopping transactions with the following attributes:
 
--Customer ID
+- Customer ID
 
--Age
+- Age
 
--Gender
+- Gender
 
--Product Category
+- Product Category
 
--Item Purchased
+- Item Purchased
 
--Purchase Amount
+- Purchase Amount
 
--Review Rating
+- Review Rating
 
--Discount Applied
+- Discount Applied
 
--Promo Code Used
+- Promo Code Used
 
--Payment Method
+- Payment Method
 
--Purchase Frequency
+- Purchase Frequency
 
--Shipping Type
+- Shipping Type
 
 Each record represents a single customer transaction.
 
 ## 🛠️ Tools & Technologies
-* Tool	Purpose
-* Python	Data cleaning & analysis
-* Pandas / NumPy	Data manipulation
-* Matplotlib / Seaborn	Data visualization
-* SQL	Querying and data analysis
-* Power BI	Interactive dashboards
+* Python – Data cleaning, preprocessing, and exploratory analysis
+* SQL – Querying transactional data and extracting insights
+* Power BI – Interactive dashboard and data visualization
+* Jupyter Notebook – Analytical workflow and documentation
+- Libraries used:
+* Pandas
+* NumPy
+* Matplotlib / Seaborn
 
 ## 🔎 Project Workflow
 1️⃣ Data Cleaning
@@ -89,6 +92,11 @@ Created an interactive dashboard showing:
 
 - Impact of discounts and promotions
 
+## 📈 Dashboard Preview
+<p align="center">
+  <img src="dashboard/customer_dashboard.png" width="900">
+</p>
+
 ## 📊 Key Insights
 
 * Certain age groups contribute the most to revenue.
@@ -101,17 +109,29 @@ Created an interactive dashboard showing:
 
 ## 💡 Business Recommendations
 
-- Target high-value customer segments with personalized marketing.
+- Focus marketing campaigns on high-revenue customer segments
 
-- Focus on promoting top-performing product categories.
+- Promote top-rated products to improve conversions
 
-- Use discounts strategically to increase purchase frequency.
+- Strengthen loyalty and subscription programs
 
-## 📈 Dashboard Preview
-<p align="center">
-  <img src="dashboard/customer_dashboard.png" width="900">
-</p>
+- Optimize discount strategies to increase repeat purchases
 
+- Improve inventory planning based on popular product categories
+
+## 🚀 Future Scope
+- Predictive analytics using machine learning
+
+- Customer churn prediction
+
+- Personalized product recommendation systems
+
+- Demand forecasting for sales trends
+
+- Sentiment analysis of customer reviews
+
+- Automated business insight reporting
+- 
 ## 🚀 Project Outcome
 
 This project demonstrates how Python, SQL, and Power BI can be combined to analyze customer behavior and extract insights that help businesses improve marketing strategies and increase sales.
