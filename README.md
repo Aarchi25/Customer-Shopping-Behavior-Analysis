@@ -131,7 +131,7 @@ Created an interactive dashboard showing:
 - Sentiment analysis of customer reviews
 
 - Automated business insight reporting
-- 
+  
 ## 🚀 Project Outcome
 
 This project demonstrates how Python, SQL, and Power BI can be combined to analyze customer behavior and extract insights that help businesses improve marketing strategies and increase sales.
