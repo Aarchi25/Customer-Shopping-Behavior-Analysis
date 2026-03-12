@@ -1,8 +1,8 @@
-🛍️ Customer Shopping Behavior Analysis
+# 🛍️ Customer Shopping Behavior Analysis
 
 This project analyzes customer shopping behavior to identify purchasing patterns, customer segments, and key factors affecting sales. The analysis uses Python, SQL, and Power BI to transform raw transactional data into meaningful insights that support data-driven business decisions.
 
-📌 Project Objectives
+##📌 Project Objectives
 
 -Analyze customer purchasing patterns
 
@@ -14,9 +14,9 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 
 -ECreate interactive dashboards for business insights
 
-📂 Dataset Features
+## 📂 Dataset Features
 
-The dataset includes customer shopping transactions with the following attributes:
+###The dataset includes customer shopping transactions with the following attributes:
 
 -Customer ID
 
@@ -44,7 +44,7 @@ The dataset includes customer shopping transactions with the following attribute
 
 Each record represents a single customer transaction.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 * Tool	Purpose
 * Python	Data cleaning & analysis
 * Pandas / NumPy	Data manipulation
@@ -52,8 +52,8 @@ Each record represents a single customer transaction.
 * SQL	Querying and data analysis
 * Power BI	Interactive dashboards
 
-🔎 Project Workflow
-1️⃣ Data Cleaning
+## 🔎 Project Workflow
+###1️⃣ Data Cleaning
 
 - Handled missing values
 
@@ -61,7 +61,7 @@ Each record represents a single customer transaction.
  
 - Prepared data for analysis
 
-2️⃣ Exploratory Data Analysis
+###2️⃣ Exploratory Data Analysis
 
 - Customer demographics analysis
 
@@ -69,7 +69,7 @@ Each record represents a single customer transaction.
 
 - Purchase frequency analysis
 
-3️⃣ SQL Analysis
+###3️⃣ SQL Analysis
 
 - Top-selling products
 
@@ -77,7 +77,7 @@ Each record represents a single customer transaction.
 
 - Customer segmentation
 
-4️⃣ Power BI Dashboard
+###4️⃣ Power BI Dashboard
 
 Created an interactive dashboard showing:
 
@@ -89,7 +89,7 @@ Created an interactive dashboard showing:
 
 - Impact of discounts and promotions
 
-📊 Key Insights
+## 📊 Key Insights
 
 * Certain age groups contribute the most to revenue.
 
@@ -99,7 +99,7 @@ Created an interactive dashboard showing:
 
 * Frequent customers generate higher revenue.
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 - Target high-value customer segments with personalized marketing.
 
@@ -107,11 +107,11 @@ Created an interactive dashboard showing:
 
 - Use discounts strategically to increase purchase frequency.
 
-📈 Dashboard Preview
+## 📈 Dashboard Preview
 <p align="center">
   <img src="dashboard/customer_dashboard.png" width="900">
 </p>
 
-🚀 Project Outcome
+## 🚀 Project Outcome
 
 This project demonstrates how Python, SQL, and Power BI can be combined to analyze customer behavior and extract insights that help businesses improve marketing strategies and increase sales.
