@@ -16,7 +16,7 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 
 ## 📂 Dataset Features
 
-###The dataset includes customer shopping transactions with the following attributes:
+The dataset includes customer shopping transactions with the following attributes:
 
 -Customer ID
 
@@ -53,7 +53,7 @@ Each record represents a single customer transaction.
 * Power BI	Interactive dashboards
 
 ## 🔎 Project Workflow
-###1️⃣ Data Cleaning
+1️⃣ Data Cleaning
 
 - Handled missing values
 
@@ -61,7 +61,7 @@ Each record represents a single customer transaction.
  
 - Prepared data for analysis
 
-###2️⃣ Exploratory Data Analysis
+2️⃣ Exploratory Data Analysis
 
 - Customer demographics analysis
 
@@ -69,7 +69,7 @@ Each record represents a single customer transaction.
 
 - Purchase frequency analysis
 
-###3️⃣ SQL Analysis
+3️⃣ SQL Analysis
 
 - Top-selling products
 
